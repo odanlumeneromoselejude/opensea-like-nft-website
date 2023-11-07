@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.2",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@web3-react/core": "^8.2.0",
+        "@web3-react/injected-connector": "^6.0.7",
+        "ether": "^0.0.9",
+        "event-emitter": "^0.3.5",
+        "events": "^3.3.0",
+        "web3": "^1.10.0",
+        "yarn": "^1.22.19"
+    }
+}
